@@ -7,5 +7,5 @@ print()
 name = firstName + lastname
 print("Hello", name, "welcome to the python program.")
 print()
-print(("~~~~~~~~~~~~~~~~~~~~~")
-)
+print("~~~~~~~~~~~~~~~~~~~~~")
+
