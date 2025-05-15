@@ -1,0 +1,11 @@
+print("Personalised Greeting")
+print("~~~~~~~~~~~~~~~~~~~~~")
+print()
+firstName = input("Enter your first name: ")
+lastName = input("Enter your second name: ")
+print()
+name = firstName + lastname
+print("Hello", name, "welcome to the python program.")
+print()
+print(("~~~~~~~~~~~~~~~~~~~~~")
+)
