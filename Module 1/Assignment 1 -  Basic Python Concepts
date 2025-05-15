@@ -5,8 +5,7 @@ print()
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 print()
-print("`````````````````````````````")
-print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+print()
 add = num1+num2
 print("Addition: ",add)
 sub = num1-num2
@@ -14,7 +13,7 @@ print("Subtraction: ",sub)
 mul = num1*num2
 print("Multipication: ",mul)
 div = num1/num2
-pinrt("Division: ",div)
+print("Division: ",div)
 print()
-print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 print("`````````````````````````````")
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
