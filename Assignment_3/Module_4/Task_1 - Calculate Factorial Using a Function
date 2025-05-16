@@ -1,0 +1,13 @@
+print("Factorial of any given number")
+print()
+n = int(input("Please enter a number: "))
+print()
+def fact(n):
+    if n<2:
+        return (1)
+    else:
+        return n * (fact(n-1))
+
+
+result = fact(n)
+print(result)
