@@ -1,0 +1,8 @@
+from math import sqrt, log, sin
+print("Math Module for Calculations")
+print()
+n = int(input("Please enter a number: "))
+print()
+print("Squareroot: ",sqrt(n))
+print("Logbase e: ",log(n))
+print("Sine: ",sin(n))
